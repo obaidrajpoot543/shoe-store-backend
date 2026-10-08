@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Premium",
+    "price": 6000,
+    "image": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4e55c3ff-4d4b-4e39-b7ea-40900bf8b2c1/NIKE+AIR+MAX+270.png"
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "price": 3500,
+    "image": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3c14f71e-c017-4bc8-a940-43ad9aebde09/ZOOM+FLY+6.png"
+  },
+  {
+    "id": 3,
+    "name": "Casual Sneakers",
+    "price": 2800,
+    "image": "https://insignia.com.pk/cdn/shop/files/4_720e47a3-9005-47ea-a7e6-5bd60c55396a.jpg?v=1760956211&width=1445"
+  },
+  {
+    "id": 4,
+    "name": "addidas Sneakers",
+    "price": 3800,
+    "image": "https://d16aymak0y9zsb.cloudfront.net/Sportsplus/product/1080x1080/21022024/GW9251_1_1703767807-1531270509233.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Addidas blue runfalcon6",
+    "price": 5400,
+    "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/V47609s.jpg?im=Resize,width=750"
+  },
+  {
+    "id": 6,
+    "name": "addidas shose",
+    "price": 7900,
+    "image": "https://www.urbansole.com.pk/cdn/shop/files/US-EX-6303BLACK_1.jpg?v=1784290753&width=1200"
+  }
+]
